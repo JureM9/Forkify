@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg'; // Parcel 2
-
+import fracty from 'fracty';
 export default class View {
   _data;
 
